@@ -10,4 +10,4 @@ This project helps me learn how to produce a PacMan on the click button. It uses
 ## How to run
 Clone or download the PacMen-factory-Exercise repository and open on the index.html file on your computer. Or click here for <a href="https://james623915.github.io/PacMen-Factory-Exercise">Live Demo.</a>
 ## License information
-See <a href="https://github.com/James623915/PacMen-Factory-Exercise/blob/main/LICENSE">license file</a> 
+See <a href="https://github.com/James623915/PacMen-Factory-Exercise/blob/main/LICENSE">license file.</a> 
