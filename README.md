@@ -3,4 +3,4 @@ Create a new pacMan by clicking the Add PacMan button. It should appear at a ran
 I am planning to improve my PacMen by making their mouth open and close while they are on their moves.
 
 ## eyes
-![](images/filename PacMan1.png) 
+![](images/PacMan1.png) 
