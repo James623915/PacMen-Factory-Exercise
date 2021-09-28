@@ -10,4 +10,4 @@ This project helps me learn how to produce a PacMan on the click button. It uses
 ## How to run
 
 ## License information
-See license file
+See <a href="https://github.com/James623915/PacMen-Factory-Exercise/blob/main/LICENSE">license file</a> 
